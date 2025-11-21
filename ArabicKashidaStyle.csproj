@@ -12,5 +12,6 @@
     <PackageId>Kashida</PackageId>
     <PackageVersion>0.1.0-beta</PackageVersion>
     <Authors>Ziad Yahya</Authors>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
 </Project>

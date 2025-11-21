@@ -1,5 +1,3 @@
 <Solution>
-  <Folder Name="/src/">
-    <Project Path="src/ArabicKashidaStyle/ArabicKashidaStyle.csproj" />
-  </Folder>
+  <Project Path="ArabicKashidaStyle.csproj" />
 </Solution>
